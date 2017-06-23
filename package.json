@@ -1,0 +1,18 @@
+{
+  "name": "apk-parse",
+  "version": "1.0.0",
+  "description": "apk解析",
+  "main": "app.js",
+  "scripts": {
+    "t": "node app.js"
+  },
+  "keywords": [
+    "apk-parse"
+  ],
+  "author": "wh",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.7"
+  }
+}
+
